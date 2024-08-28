@@ -13,6 +13,7 @@ Note that this project is still in its early stages and so may not yet provide c
     - [Installation](#installation)
     - [Import Package](#import-package)
   - [Usage](#usage)
+  - [Build From Source](#build-from-sourcae)
   - [Roadmap](#roadmap)
   - [Contributing](#contributing)
   - [License](#license)
@@ -114,6 +115,22 @@ Import the library in your code.
 ## Usage
 
 See the [User Guide](doc/user-guide.md) for detailed information.
+
+## Build From Source
+
+### Prerequisites
+
+You will need npm to build from source. Grunt is used as a build tool and will be installed by npm.
+
+### Install Dependencies
+
+Simply run npm to install the dependencies.
+
+```
+npm install
+```
+
+### Build
 
 ## Roadmap
 
