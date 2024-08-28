@@ -1,0 +1,21 @@
+{
+  "//" : [
+    "Copyright 2024 Limeslice Software Foundation - All Rights Reserved"
+  ],
+  "name": "praetexo",
+  "version": "1.0.0",
+  "description": "Praetexo is designed to be a very lightweight CSS only framework that offers a responsive 12 column grid and navbar.",
+  "main": "index.js",
+  "author": "Limeslice Software Foundation",
+  "license": "MIT",
+  "homepage": "",
+  "devDependencies": {
+    "grunt": "^1.6.1",
+    "grunt-contrib-clean": "^2.0.1",
+    "grunt-contrib-coffee": "^2.1.0",
+    "grunt-contrib-concat": "^2.1.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^5.0.0",
+    "grunt-contrib-sass": "^2.0.0"
+  }
+}
