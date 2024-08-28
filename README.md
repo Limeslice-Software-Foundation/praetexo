@@ -13,7 +13,7 @@ Note that this project is still in its early stages and so may not yet provide c
     - [Installation](#installation)
     - [Import Package](#import-package)
   - [Usage](#usage)
-  - [Build From Source](#build-from-sourcae)
+  - [Build From Source](#build-from-source)
   - [Roadmap](#roadmap)
   - [Contributing](#contributing)
   - [License](#license)
@@ -131,6 +131,12 @@ npm install
 ```
 
 ### Build
+
+Run Grunt to build the CSS from source.
+
+```
+grunt
+```
 
 ## Roadmap
 
